@@ -38,3 +38,4 @@ if new_fruit in fruits:
 else:
     fruits.append(new_fruit)
     print(f"The modified fruit list: {fruits}")
+    
